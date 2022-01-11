@@ -1,16 +1,55 @@
-### Hi there 👋
+# Class schedule
 
+**Time**
 
-**macsakarn/macsakarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+08:45
 
-Here are some ideas to get you started:
+09:00
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+10:45
 
+11:00
+
+12:45
+
+13:00
+
+13:30
+
+15:00
+
+15:30
+
+16:00
+
+16:30
+
+17:00
+
+19:30
+
+**Monday** 
+
+SOFT DEV TOOLS
+
+**Tuesday**
+
+PROJECT MANAGE
+
+**Wednesday**
+
+SOFT VERIFI
+
+**Thursday**
+
+CLOUD-BASED
+
+COOPERATIVE
+
+**Friday**
+
+MICROPROCESSORS
+
+SEMINAR
+
+[Subjects](https://www.notion.so/ac7d90eb216f4ea690c7adbe937caffd)
