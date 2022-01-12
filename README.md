@@ -1,55 +1,8 @@
-# Class schedule
+<h2> Hello, I'am Sakarn Bantadjun👍</h2>
 
-**Time**
+<img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400">
 
-08:45
+<p>Software Enginner at <a href="https://www.it.kmitl.ac.th/en/">KMITL</a></p>
 
-09:00
-
-10:45
-
-11:00
-
-12:45
-
-13:00
-
-13:30
-
-15:00
-
-15:30
-
-16:00
-
-16:30
-
-17:00
-
-19:30
-
-**Monday** 
-
-SOFT DEV TOOLS
-
-**Tuesday**
-
-PROJECT MANAGE
-
-**Wednesday**
-
-SOFT VERIFI
-
-**Thursday**
-
-CLOUD-BASED
-
-COOPERATIVE
-
-**Friday**
-
-MICROPROCESSORS
-
-SEMINAR
-
-[Subjects](https://www.notion.so/ac7d90eb216f4ea690c7adbe937caffd)
+[![Linkedin: Sakarn](https://img.shields.io/badge/-Sakarn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakarn-buntudjun-28127b209/)](https://www.linkedin.com/in/sakarn-buntudjun-28127b209/)
+[![GitHub Sakarn](https://img.shields.io/github/followers/macsakarn?label=follow&style=social)](https://github.com/macsakarn)
